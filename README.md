@@ -1,12 +1,12 @@
 <<<<<<< HEAD
-WebMSO28
+WebMSO28Node
 ========
 
 MSO-28 Web Interface
-needs mso28cgi to function.
+Node.js implementation.
 =======
-WebMSO28fcgi
+WebMSO28Node
 ============
 
-WebMSO28 using fcgi
+WebMSO28 using Node
 >>>>>>> e7c7ae48aac0109931447cf097be12638d67565c
